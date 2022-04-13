@@ -1,0 +1,27 @@
+.profile{
+    position:absolute;
+    margin-left: 20%;
+    flex:80%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: 100%;
+}
+.profile button{
+    max-width: 10%;
+}
+.profile .profile-username{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:80%;
+    
+}
+.profile .edit{
+     
+    font-size: 40px;
+    margin-left: 3%;
+    cursor:pointer;
+}
